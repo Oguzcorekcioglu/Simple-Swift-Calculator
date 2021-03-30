@@ -11,7 +11,7 @@ This Calculator makes :
 
 
 This app include two storyBoard:
-- Launch.StoryBoard
+- LaunchScreen.StoryBoard
 - Main.StoryBoard
 
 
